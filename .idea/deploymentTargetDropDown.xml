@@ -2,16 +2,7 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="AppDrawerHeaderPreview">
-        <State />
-      </entry>
-      <entry key="AppDrawerPreview">
-        <State />
-      </entry>
-      <entry key="LightDarkThemeItemPreview">
-        <State />
-      </entry>
-      <entry key="ScreenNavigationButtonPreview">
+      <entry key="NoteColorPreview">
         <State />
       </entry>
       <entry key="app">
