@@ -13,10 +13,10 @@ import androidx.compose.material.rememberScaffoldState
 import androidx.compose.runtime.rememberCoroutineScope
 import com.topic2.android.notes.routing.Screen
 import com.topic2.android.notes.theme.NotesTheme
+import com.topic2.android.notes.ui.screens.NotesScreen
 import kotlinx.coroutines.launch
 import ui.components.AppDrawer
 import ui.components.Note
-import ui.components.ColorItem.NotesScreen
 
 /**
  * Main activity приложения.
